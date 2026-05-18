@@ -1,43 +1,31 @@
 <img src="./assets/foundation-is-infrastructure-banner.svg" alt="Foundation is infrastructure. Mathematics, Computer Science, Learning Systems." width="100%">
 
-# Alex A. Toumayan
+### Alex A. Toumayan
 
-**Software engineer building education infrastructure**
+**Software engineer building education infrastructure.**
 
-I build software and curriculum infrastructure for a more explicit, coherent, and rigorous education system.
+I build full-stack tools, curriculum systems, and research workflows for Foundations to Mastery: making student progress easier to see, explain, and act on.
 
-I am the founder of Foundations to Mastery. My current work is centered on full-stack education tools, reproducible research notebooks, and content pipelines for STEM courses.
+---
 
-The through-line: make learning systems easier to inspect: what students know, where the sequence breaks, what teachers need, and what should happen next.
+#### Current Work
 
-## Current Work
+| Track | What I am building |
+| --- | --- |
+| **F2M Platform** | Student and tutor tools for diagnostics, course materials, session reports, file access, and admin workflows. |
+| **Research Notebooks** | Public analyses on learning gaps, academic recovery, teacher workload, tutoring access, and de-identified F2M outcomes. |
+| **Course Infrastructure** | Markdown, LaTeX, KaTeX, and automation pipelines for structured STEM materials and interactive programming exercises. |
 
-- Building F2M's student- and tutor-facing tools: course materials, diagnostics, dashboards, reports, file access, and workflow surfaces.
-- Developing public Jupyter notebooks on learning gaps, academic recovery, teacher workload, private tutoring access, and de-identified F2M outcomes.
-- Building course and content tooling for math, computer science, chemistry, and academic support materials.
-- Using AI for structured drafting, content QA, report generation, and internal tools with human review in the loop.
+#### Engineering Focus
 
-## Selected Work
+`full-stack product engineering` · `data and research tooling` · `curriculum systems` · `developer workflow` · `AI-assisted internal tools`
 
-### Foundations to Mastery
+#### Principles
 
-Full-stack product work across student portals, course materials, diagnostic workflows, session reports, file access, and tutor/admin tools. Most code is private while the business and student data stay protected.
+- Make the system observable: inputs, assumptions, student state, and next actions should be visible.
+- Prefer durable workflows over one-off artifacts.
+- Keep public work honest: sources, limitations, reproducibility notes, and clear boundaries around private student data.
 
-### F2M Research Notebooks
+#### Public Work
 
-Public notebooks in progress. Focus areas: missing foundational layers, uneven academic recovery, teacher infrastructure burden, hidden tutoring access, and de-identified F2M outcomes. Each notebook is intended to ship with data sources, assumptions, limitations, and reproducibility notes.
-
-### Course and Content Tooling
-
-Markdown, LaTeX, KaTeX, and automation workflows for structured STEM course materials, interactive programming exercises, and tutor-ready documents.
-
-## Engineering Focus
-
-- Product engineering: interfaces, data models, auth and file workflows, reporting tools, and admin surfaces.
-- Data and research tooling: Python, Jupyter, public datasets, reproducible methods, and clear visualizations.
-- Developer workflow: tests, migrations, CI checks, content QA, and small automation scripts.
-- AI-assisted systems: structured generation and review workflows where AI helps with drafts, checks, and repetitive transformations.
-
-## Philosophy
-
-Good education software should make learning more observable. The goal is not to make rigorous material look easier than it is, but to make the path through it clearer: what the student knows, where the sequence breaks, what support exists, what teachers need, and how progress gets verified.
+Public repositories are being reorganized around the work above. Most F2M application code stays private while I prepare public notebooks, infrastructure examples, and cleaned project write-ups.
