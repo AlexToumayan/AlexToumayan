@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" viewBox="0 0 112 28" role="img" aria-labelledby="title">
-  <title id="title">Berkeley</title>
-  <rect x="0.5" y="0.5" width="111" height="27" rx="6" fill="#fbf4e8" stroke="#d8c08a"/>
-  <circle cx="15" cy="14" r="3.2" fill="#c99700"/>
-  <text x="26" y="18" fill="#003262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="650">Berkeley</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30" role="img" aria-labelledby="title">
+  <title id="title">UC Berkeley</title>
+  <rect x="0.5" y="0.5" width="135" height="29" rx="7" fill="#002676" stroke="#FDB515"/>
+  <rect x="0.5" y="0.5" width="10" height="29" rx="7" fill="#FDB515"/>
+  <rect x="7" y="0.5" width="6" height="29" fill="#FDB515"/>
+  <circle cx="24" cy="15" r="3.4" fill="#FDB515"/>
+  <text x="36" y="20" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="700" letter-spacing=".2">UC Berkeley</text>
 </svg>
