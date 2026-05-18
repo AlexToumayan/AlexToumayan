@@ -25,7 +25,7 @@ I build full-stack tools, curriculum systems, and research workflows for Foundat
 
 #### Engineering Focus
 
-`full-stack product engineering` · `data and research tooling` · `curriculum systems` · `developer workflow` · `AI-assisted internal tools`
+Full-stack product engineering · data and research tooling · curriculum systems · developer workflow · AI-assisted internal tools
 
 #### Principles
 

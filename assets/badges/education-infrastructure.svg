@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="186" height="28" viewBox="0 0 186 28" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="28" viewBox="0 0 198 28" role="img" aria-labelledby="title">
   <title id="title">Education Infrastructure</title>
-  <rect x="0.5" y="0.5" width="185" height="27" rx="6" fill="#f7f8fb" stroke="#c9d2df"/>
+  <rect x="0.5" y="0.5" width="197" height="27" rx="6" fill="#f7f8fb" stroke="#c9d2df"/>
   <circle cx="15" cy="14" r="3.2" fill="#2f5d82"/>
   <text x="26" y="18" fill="#102a43" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="650">Education Infrastructure</text>
 </svg>
