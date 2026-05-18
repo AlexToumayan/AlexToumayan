@@ -5,7 +5,7 @@
 **Software engineer building education infrastructure.**
 
 <p>
-  <img src="./assets/badges/berkeley.svg?v=2" alt="UC Berkeley">
+  <img src="./assets/badges/uc-berkeley.svg" alt="UC Berkeley">
 </p>
 
 I build full-stack tools, curriculum systems, and research workflows for Foundations to Mastery: making student progress easier to see, explain, and act on.
