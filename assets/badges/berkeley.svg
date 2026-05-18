@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" viewBox="0 0 112 28" role="img" aria-labelledby="title">
+  <title id="title">Berkeley</title>
+  <rect x="0.5" y="0.5" width="111" height="27" rx="6" fill="#fbf4e8" stroke="#d8c08a"/>
+  <circle cx="15" cy="14" r="3.2" fill="#c99700"/>
+  <text x="26" y="18" fill="#003262" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="650">Berkeley</text>
+</svg>
