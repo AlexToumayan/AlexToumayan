@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Alex A. Toumayan — Founder of Foundations to Mastery</title>
+  <desc id="desc">A navy and gold founder banner with an evidence-to-mastery learning system diagram and the phrase Diagnose the gap. Map the foundation. Build the path.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06152F"/>
+      <stop offset="0.58" stop-color="#0B285F"/>
+      <stop offset="1" stop-color="#123B79"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="82%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#4D77B7" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#4D77B7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame">
+      <rect width="1600" height="520" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="520" fill="url(#background)"/>
+    <rect width="1600" height="520" fill="url(#halo)"/>
+
+    <g opacity="0.07" stroke="#D7E3F5" stroke-width="1">
+      <path d="M0 52H1600M0 104H1600M0 156H1600M0 208H1600M0 260H1600M0 312H1600M0 364H1600M0 416H1600M0 468H1600"/>
+      <path d="M52 0V520M104 0V520M156 0V520M208 0V520M260 0V520M312 0V520M364 0V520M416 0V520M468 0V520M520 0V520M572 0V520M624 0V520M676 0V520M728 0V520M780 0V520M832 0V520M884 0V520M936 0V520M988 0V520M1040 0V520M1092 0V520M1144 0V520M1196 0V520M1248 0V520M1300 0V520M1352 0V520M1404 0V520M1456 0V520M1508 0V520M1560 0V520"/>
+    </g>
+
+    <rect x="0" width="15" height="520" fill="#F0BF24"/>
+    <rect x="15" width="4" height="520" fill="#D79A16" opacity="0.6"/>
+
+    <g transform="translate(82 67)">
+      <text x="0" y="0" fill="#F0BF24" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3.5">FOUNDER · EDUCATION SYSTEMS · PRODUCT &amp; ENGINEERING</text>
+
+      <text x="0" y="91" fill="#FFFFFF" font-family="Georgia,'Times New Roman',serif" font-size="74" font-weight="700" letter-spacing="-1.4">Alex A. Toumayan</text>
+      <text x="2" y="142" fill="#DCE7F7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="29" font-weight="550">Founder, Foundations to Mastery</text>
+
+      <path d="M2 180H790" stroke="#F0BF24" stroke-width="3" stroke-linecap="round"/>
+      <path d="M2 191H195" stroke="#F0BF24" stroke-width="2" stroke-linecap="round" opacity="0.58"/>
+
+      <text x="2" y="248" fill="#FFFFFF" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic">Diagnose the gap.</text>
+      <text x="300" y="248" fill="#FFFFFF" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic">Map the foundation.</text>
+      <text x="635" y="248" fill="#F0BF24" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic">Build the path.</text>
+
+      <g transform="translate(2 299)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.15">
+        <g>
+          <rect width="148" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.075" stroke="#B9CCE7" stroke-opacity="0.42"/>
+          <text x="74" y="25" text-anchor="middle" fill="#E2ECFA">DIAGNOSTICS</text>
+        </g>
+        <g transform="translate(164 0)">
+          <rect width="157" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.075" stroke="#B9CCE7" stroke-opacity="0.42"/>
+          <text x="78.5" y="25" text-anchor="middle" fill="#E2ECFA">CURRICULUM</text>
+        </g>
+        <g transform="translate(337 0)">
+          <rect width="205" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.075" stroke="#B9CCE7" stroke-opacity="0.42"/>
+          <text x="102.5" y="25" text-anchor="middle" fill="#E2ECFA">LEARNING PATHS</text>
+        </g>
+        <g transform="translate(558 0)">
+          <rect width="249" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.075" stroke="#B9CCE7" stroke-opacity="0.42"/>
+          <text x="124.5" y="25" text-anchor="middle" fill="#E2ECFA">AI + EDUCATOR REVIEW</text>
+        </g>
+      </g>
+    </g>
+
+    <path d="M952 48V472" stroke="#D7E3F5" stroke-opacity="0.18"/>
+
+    <g transform="translate(995 42)">
+      <rect x="0" y="0" width="550" height="436" rx="28" fill="#04132E" fill-opacity="0.34" stroke="#B9CCE7" stroke-opacity="0.20"/>
+      <text x="275" y="38" text-anchor="middle" fill="#B9CCE7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8">FROM EVIDENCE TO ACTION</text>
+
+      <g fill="none" stroke-linecap="round">
+        <path d="M275 94L115 185M275 94L275 185M275 94L435 185" stroke="#D6E2F4" stroke-width="2.2" stroke-opacity="0.56"/>
+        <path d="M115 229L275 304M275 229V304M435 229L275 304" stroke="#D6E2F4" stroke-width="2.2" stroke-opacity="0.56"/>
+        <path d="M275 349V387" stroke="#F0BF24" stroke-width="4"/>
+      </g>
+
+      <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+        <g>
+          <circle cx="275" cy="82" r="38" fill="#0D2A66" stroke="#F0BF24" stroke-width="3"/>
+          <text x="275" y="78" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="750" letter-spacing="1.5">LEARNER</text>
+          <text x="275" y="96" text-anchor="middle" fill="#F0BF24" font-size="10" font-weight="700" letter-spacing="1.2">CONTEXT</text>
+        </g>
+
+        <g>
+          <rect x="43" y="181" width="144" height="52" rx="14" fill="#0D2A66" stroke="#AFC5E4" stroke-opacity="0.72"/>
+          <text x="115" y="203" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="750" letter-spacing="1.4">EVIDENCE</text>
+          <text x="115" y="220" text-anchor="middle" fill="#AFC5E4" font-size="10">what is known</text>
+        </g>
+        <g>
+          <rect x="203" y="181" width="144" height="52" rx="14" fill="#0D2A66" stroke="#AFC5E4" stroke-opacity="0.72"/>
+          <text x="275" y="203" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="750" letter-spacing="1.4">FOUNDATION</text>
+          <text x="275" y="220" text-anchor="middle" fill="#AFC5E4" font-size="10">where it breaks</text>
+        </g>
+        <g>
+          <rect x="363" y="181" width="144" height="52" rx="14" fill="#0D2A66" stroke="#AFC5E4" stroke-opacity="0.72"/>
+          <text x="435" y="203" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="750" letter-spacing="1.4">CURRICULUM</text>
+          <text x="435" y="220" text-anchor="middle" fill="#AFC5E4" font-size="10">what comes next</text>
+        </g>
+
+        <g>
+          <rect x="180" y="300" width="190" height="54" rx="16" fill="#0D2A66" stroke="#F0BF24" stroke-width="2.4"/>
+          <text x="275" y="322" text-anchor="middle" fill="#FFFFFF" font-size="14" font-weight="750" letter-spacing="1.8">PERSONALIZED PATH</text>
+          <text x="275" y="340" text-anchor="middle" fill="#F0BF24" font-size="10" font-weight="650">traceable next actions</text>
+        </g>
+
+        <g>
+          <rect x="200" y="387" width="150" height="36" rx="18" fill="#F0BF24"/>
+          <text x="275" y="410" text-anchor="middle" fill="#071A3C" font-size="13" font-weight="800" letter-spacing="1.8">MASTERY</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
